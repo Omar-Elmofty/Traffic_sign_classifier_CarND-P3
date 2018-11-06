@@ -2,8 +2,6 @@
 
 ## Writeup
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Build a Traffic Sign Recognition Project**
@@ -19,9 +17,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup_images/data_histogram.jpg "Visualization"
-[image2]: ./writeup_images/gray_img.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
+[image1]: ./writeup_images/data_histogram.JPG "Visualization"
+[image2]: ./writeup_images/gray_img.JPG "Grayscaling"
+[image3]: ./examples/random_noise.JPG"Random Noise"
 [image4]: ./Traffic_signs_from_web/4.jpg "Traffic Sign 1"
 [image5]: ./Traffic_signs_from_web/14.jpg "Traffic Sign 2"
 [image6]: ./Traffic_signs_from_web/22.jpg "Traffic Sign 3"
